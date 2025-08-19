@@ -20,19 +20,39 @@ Here are some ideas to get you started:
 
 ---
 
-🌱 **Currently Learning**  
-- Data Science & Machine Learning  
-- Python for AI applications  
-- Cloud & MLOps (AWS, Docker, Kubernetes)  
-- Large-scale systems with Java & Spring Boot  
+🌱 Currently Learning & Exploring
+Developing AI-driven solutions at Bootlabs Technology
+Data Science & Machine Learning (NLP, predictive modeling, recommendation systems)
+Python for AI applications (FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, LangChain)
+Cloud & MLOps – AWS, Docker, Kubernetes, CI/CD pipelines
+System Design & Architecture – designing scalable, fault-tolerant distributed systems
+RAG (Retrieval Augmented Generation), LLM fine-tuning, and Generative AI applications
 
-💼 **Previous Experience**  
-- Java Developer at Hyland  
-- Building AI solutions at Bootlabs Technology  
+💼 Professional Experience
+Software Developer 2 – Hyland
+Worked on enterprise-scale content management systems, improving performance, scalability, and feature enhancements.
+Software Developer – Emo Mart
+Designed and implemented microservices-based applications with a focus on REST APIs, integrations, and database management.
+Software Developer – Mystify
+Contributed to full-stack development, delivering end-to-end features and improving system reliability.
 
-🎯 **Career Goals**  
-- Transition into data roles (Data Scientist, Data Engineer)  
-- Build AI-driven products as an entrepreneur  
+🛠️ Tech Stack
+Languages & Frameworks: Java, Python, FastAPI, Spring Boot
+Databases: MySQL, MongoDB
+AI/ML & GenAI: LLMs, Generative AI, RAG, LangChain
+System Design: HLD, LLD, Design Patterns, Scalability & Fault Tolerance
+DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD
+
+🎯 Career Goals
+Transition into data-centric roles (Data Scientist, Data Engineer, AI Engineer)
+Build AI-driven products and scalable solutions as an entrepreneur
+Continue exploring the intersection of System Design + AI to architect future-ready applications
+
+✨ This format highlights:
+Your ongoing AI journey
+Experience in a clean timeline
+Strong tech stack (so keywords pop up in recruiter searches)
+Clear future vision
 
 ---
 

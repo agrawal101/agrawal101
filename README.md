@@ -47,7 +47,12 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge&logo=googlecloud)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Large_Language_Models-purple?style=for-the-badge&logo=openai)
+![GenAI](https://img.shields.io/badge/Generative_AI-red?style=for-the-badge&logo=ai)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka)
+![System Design](https://img.shields.io/badge/System_Design-HLD_&_LLD-ff9800?style=for-the-badge&logo=diagramdotnet)
 ---
 
 ### 📊 GitHub Stats

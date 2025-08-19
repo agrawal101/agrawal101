@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ---
 
 🌱 Currently Learning & Exploring
-Developing AI-driven solutions at Bootlabs Technology
-Data Science & Machine Learning (NLP, predictive modeling, recommendation systems)
-Python for AI applications (FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, LangChain)
-Cloud & MLOps – AWS, Docker, Kubernetes, CI/CD pipelines
-System Design & Architecture – designing scalable, fault-tolerant distributed systems
-RAG (Retrieval Augmented Generation), LLM fine-tuning, and Generative AI applications
+- Developing AI-driven solutions at Bootlabs Technology
+- Data Science & Machine Learning (NLP, predictive modeling, recommendation systems)
+- Python for AI applications (FastAPI, Pandas, NumPy, Scikit-learn, PyTorch, LangChain)
+- Cloud & MLOps – AWS, Docker, Kubernetes, CI/CD pipelines
+- System Design & Architecture – designing scalable, fault-tolerant distributed systems
+- RAG (Retrieval Augmented Generation), LLM fine-tuning, and Generative AI applications
 
 💼 Professional Experience
 Software Developer 2 – Hyland

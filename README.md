@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 - Build AI-driven products and scalable solutions as an entrepreneur
 - Continue exploring the intersection of System Design + AI to architect future-ready applications
 
-✨ This format highlights:
-- Your ongoing AI journey
-- Experience in a clean timeline
-- Strong tech stack (so keywords pop up in recruiter searches)
-- Clear future vision
-
 ---
 
 ### 🔧 Tech Stack

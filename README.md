@@ -29,30 +29,30 @@ Here are some ideas to get you started:
 - RAG (Retrieval Augmented Generation), LLM fine-tuning, and Generative AI applications
 
 💼 Professional Experience
-Software Developer 2 – Hyland
-Worked on enterprise-scale content management systems, improving performance, scalability, and feature enhancements.
-Software Developer – Emo Mart
-Designed and implemented microservices-based applications with a focus on REST APIs, integrations, and database management.
-Software Developer – Mystify
-Contributed to full-stack development, delivering end-to-end features and improving system reliability.
+- Software Developer 2 – Hyland
+- Worked on enterprise-scale content management systems, improving performance, scalability, and feature enhancements.
+- Software Developer – Emo Mart
+- Designed and implemented microservices-based applications with a focus on REST APIs, integrations, and database management.
+- Software Developer – Mystify
+- Contributed to full-stack development, delivering end-to-end features and improving system reliability.
 
 🛠️ Tech Stack
-Languages & Frameworks: Java, Python, FastAPI, Spring Boot
-Databases: MySQL, MongoDB
-AI/ML & GenAI: LLMs, Generative AI, RAG, LangChain
-System Design: HLD, LLD, Design Patterns, Scalability & Fault Tolerance
-DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD
+- Languages & Frameworks: Java, Python, FastAPI, Spring Boot
+- Databases: MySQL, MongoDB
+- AI/ML & GenAI: LLMs, Generative AI, RAG, LangChain
+- System Design: HLD, LLD, Design Patterns, Scalability & Fault Tolerance
+- DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD
 
 🎯 Career Goals
-Transition into data-centric roles (Data Scientist, Data Engineer, AI Engineer)
-Build AI-driven products and scalable solutions as an entrepreneur
-Continue exploring the intersection of System Design + AI to architect future-ready applications
+- Transition into data-centric roles (Data Scientist, Data Engineer, AI Engineer)
+- Build AI-driven products and scalable solutions as an entrepreneur
+- Continue exploring the intersection of System Design + AI to architect future-ready applications
 
 ✨ This format highlights:
-Your ongoing AI journey
-Experience in a clean timeline
-Strong tech stack (so keywords pop up in recruiter searches)
-Clear future vision
+- Your ongoing AI journey
+- Experience in a clean timeline
+- Strong tech stack (so keywords pop up in recruiter searches)
+- Clear future vision
 
 ---
 

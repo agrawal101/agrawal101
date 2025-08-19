@@ -31,17 +31,17 @@ Here are some ideas to get you started:
 💼 Professional Experience
 - Software Developer 2 – Hyland
 - Worked on enterprise-scale content management systems, improving performance, scalability, and feature enhancements.
-- Software Developer – Emo Mart
+- Software Developer – Ebo Mart
 - Designed and implemented microservices-based applications with a focus on REST APIs, integrations, and database management.
 - Software Developer – Mystify
 - Contributed to full-stack development, delivering end-to-end features and improving system reliability.
 
 🛠️ Tech Stack
-- Languages & Frameworks: Java, Python, FastAPI, Spring Boot
-- Databases: MySQL, MongoDB
+- Languages & Frameworks: Java, Spring Boot, C#.net, Python, FastAPI
+- Databases: MySQL, MongoDB, Postgresql
 - AI/ML & GenAI: LLMs, Generative AI, RAG, LangChain
 - System Design: HLD, LLD, Design Patterns, Scalability & Fault Tolerance
-- DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD
+- DevOps & Cloud: AWS, CI/CD
 
 🎯 Career Goals
 - Transition into data-centric roles (Data Scientist, Data Engineer, AI Engineer)
